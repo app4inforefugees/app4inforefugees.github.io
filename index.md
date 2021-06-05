@@ -31,7 +31,7 @@ Els equips hauran de ser de __fins a 4 persones__.
 Si no tens equip ets pots inscriure individualment i t'assignarem a un equip.
 
 ## Inscripcions
-__Fins al dia 22 de juny__ al següent formulari: https://forms.gle/qgHSN1Uc1mD818kY8 \
+__Fins al dia 22 de juny__ al següent __[formulari](https://forms.gle/qgHSN1Uc1mD818kY8)__  \
 Les inscripcions amb antelació seran molt apreciades.
 
 ### Contacte
