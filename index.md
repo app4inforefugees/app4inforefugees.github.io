@@ -1,5 +1,5 @@
+# App4InfoRefugees
 ## Explicació
-
 ### Context
 Moltes de les persones que arriben a les costes espanyoles busquen un futur millor a Europa. Però també n’hi ha que, tot i buscar __un futur millor__, fugen dels seus llocs d’origen o residència perquè tenen por de ser perseguides i de patir __violència física o psíquica__, ja sigui per la seves opinions polítiques, orientació sexual, pràctiques religioses... \
 Altres fugen dels seus llocs d’origen perquè són o poden ser víctimes de __violència de gènere__. Hi ha moltes circumstàncies que, potencialment, permeten que una persona sol·liciti __refugi__ en un país. I hi ha moltes persones que desconeixen aquesta possibilitat. \
@@ -31,7 +31,7 @@ Els equips hauran de ser de __fins a 4 persones__.
 Si no tens equip ets pots inscriure individualment i t'assignarem a un equip.
 
 ## Inscripcions
-__Fins al dia 22 de juny__ al següent formulari: https://forms.gle/qgHSN1Uc1mD818kY8
+__Fins al dia 22 de juny__ al següent formulari: https://forms.gle/qgHSN1Uc1mD818kY8 \
 Les inscripcions amb antelació seran molt apreciades.
 
 ### Contacte
