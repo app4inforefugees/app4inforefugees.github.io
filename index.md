@@ -10,7 +10,7 @@ _App4InfoRefugees_ és planteja un repte molt concret: ___promoure l’accés a 
 L’objectiu és crear una __aplicació per a mòbil__ que permeti que personal d’ONGs (educadors/es socials, treballadors/es socials, educadors/es de carrer, etc.), en contacte amb persones que arriben al territori espanyol, puguin obtenir informació sobre què és l’asil i identificar-ne elements clau en les històries de les persones amb qui treballen. Aquests elements clau estaran relacionats amb les causes que permeten sol·licitar asil a Espanya. En els casos identificats, es busca que l’app també indiqui als professionals de les ONG, aquelles entitats que poden assessorar a les persones migrants i refugiades i el seu contacte. 
 
 ### Col·laboradors
-La _hackathon App4InfoRefugees_ està promoguda per la __Facultat d’Informàtica de la UB__ i la __Fundació Solidaritat UB__, en el marc del conveni de col·laboració amb l'__Ajuntament de Barcelona__ _“Potenciant sinèrgies per afrontar els reptes per a la justícia global des de la universitat: educació, recerca i acció”_.  
+La _hackathon App4InfoRefugees_ està promoguda per la __Facultat de Matemàtiques i Informàtica de la UB__ i la __Fundació Solidaritat UB__, en el marc del conveni de col·laboració amb l'__Ajuntament de Barcelona__ _“Potenciant sinèrgies per afrontar els reptes per a la justícia global des de la universitat: educació, recerca i acció”_.  
 
 
 ## Horaris i format
